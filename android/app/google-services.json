@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984956914424",
+    "project_id": "flutter-task-f8177",
+    "storage_bucket": "flutter-task-f8177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984956914424:android:465704b37a47114d5b890d",
+        "android_client_info": {
+          "package_name": "com.ranula.flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984956914424-0dtpq8u36v2ru2q22gtctjnida572e9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOd9uVwKPPfHBTf9M369bAmB58vnVi27E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984956914424-0dtpq8u36v2ru2q22gtctjnida572e9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
